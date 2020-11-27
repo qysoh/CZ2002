@@ -1,0 +1,2 @@
+C:\Users\Qian Yi\source\repos\lab5\Debug\lab5.exe
+C:\Users\Qian Yi\source\repos\lab5\Debug\lab5.pdb
