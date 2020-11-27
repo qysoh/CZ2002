@@ -1,0 +1,38 @@
+Username: bobbybro111 
+Password: bobby123
+
+Username:CINDY2321
+Length=9
+Password::N9amN1Gc
+
+Username:JEN223 (access period denied)
+Length=13
+Password:=`_U=SEQj1TzZ
+
+Username:TIF332
+Length=11
+Password:YNhR`g^zcgj
+
+Username:JAN12M131(access period denied)
+Length=12
+Password:[c[PK02PKOWE
+
+Username:JOHN132(access period denied)
+Length=12
+Password:q{qVBJTGf9\6
+
+Username:JESSICAS323
+Length=8
+Password:iI0@S:qN
+
+Username:ROLLINTHEDEE223
+Length=9
+Password:2@?Yj1yh6
+
+Username:KARINA1221
+Length=10
+Password:7s3a>enBCu
+
+Username:KAYD212
+Length=11
+Password:J_9PeE6HEuC
