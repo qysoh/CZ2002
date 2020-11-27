@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"/Users/jonathanchan/Downloads/javax.mail.jar",
+			"/Users/jonathanchan/Downloads/javax.activation-1.2.0.jar"
+		]
+	}
+}
